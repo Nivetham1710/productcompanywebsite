@@ -21,11 +21,11 @@ body {
   height: 250px;
   text-align: center;
   font-size: 60px;
-  background-image: url("/static/img/banner1.jpg");
+  background-image: url("C:/Users/lap/Documents/djangoprojects/productcompanywebsite/companywebsite/static/img/banner1.jpg");
   background-size: 100% 100%;
   margin: 0px 0px 0px 0px;
   padding-top: 150px;
-  color: #16d1ae;
+  color: #e8f3f1;
 }
 
 .menu {
@@ -33,7 +33,7 @@ body {
   width: 100%;
   height: 50px;
   font-size: larger;
-  background-color: #5bb045;
+  background-color: #6d6e0c;
   text-align: center;
   padding-top: 15px;
   margin: 0px 0px 0px 0px;
@@ -49,7 +49,7 @@ body {
   display: inline-block;
   margin-left: 10px;
   margin-right: 10px;
-  color: #16d1ae;
+  color: #d1c73a;
 }
 
 .menuitem a {
@@ -60,11 +60,11 @@ body {
 .content {
   display: block;
   width: 100%;
-  background-color: #cffffd;
+  background-color: #dce9e8;
   min-height: 500px;
   margin: 0px 0px 0px 0px;
   border-width: 1px;
-  border-color: white;
+  border-color: rgb(41, 37, 37);
   border-style: solid;
 }
 .homecontent {
@@ -129,9 +129,9 @@ body {
   display: block;
   width: 100%;
   height: 40px;
-  background-color: #5bb045;
+  background-color: #93b045;
   text-align: center;
   padding-top: 10px;
   margin: 0px 0px 0px 0px;
-  color: #9c1018;
+  color: #1f1819;
 }
